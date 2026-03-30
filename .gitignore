@@ -1,0 +1,15 @@
+# 1. Ignore generated SSL/TLS certificates and private keys (CRITICAL FOR SECURITY)
+certs/
+*.pem
+
+# 2. Ignore local centralized log file generated during testing
+centralized_logs.txt
+
+# 3. Python standard ignores (prevents junk files from uploading)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 4. OS generated files (prevents Mac/Windows junk files)
+.DS_Store
+Thumbs.db
