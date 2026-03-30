@@ -98,3 +98,17 @@ The server utilizes a **Thread-per-Connection** model. This allows for:
 * **Fault Isolation:** A crash or slow connection in one client thread does not affect the performance of other active monitoring agents.
 
 ---
+
+---
+
+## 📸 Usage Gallery & Logs
+
+This gallery demonstrates the multi-threaded server aggregation. Notice how the central collector (`output_aggr`) merges the incoming streams from both Machine A and Machine B in real-time.
+
+| Machine_A CN (Client Stream) | Machine_B CN (Client Stream) |
+| :---: | :---: |
+| ![Machine A Logs](screenshots/machine_A%20CN.jpg) | ![Machine B Logs](screenshots/machine_B%20CN.jpg) |
+| **Collector Aggregation Output** | |
+| ![Server Aggregated Logs](screenshots/output_aggr.jpg) | *(A screenshot of the main server console merging logs)* |
+
+---
