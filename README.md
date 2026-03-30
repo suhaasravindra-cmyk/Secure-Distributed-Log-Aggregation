@@ -66,14 +66,14 @@ When a client connects, the following "Handshake" occurs before any log data is 
 The system requires a Self-Signed Certificate to establish the secure tunnel. Run this command in your terminal:
 ```bash
 openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes
-
+```
 ### Step 2: Launch the Central Collector
 The server must be started first to initialize the network listener and the SSL context. This central node handles the decryption and aggregation of all incoming data.
 
 Run the following command in your primary terminal:
 ```bash
 python server.py
-
+```
 ### Step 3: Deploy Distributed Agents (Concurrent Simulation)
 To demonstrate the server's **Multi-threading** and **Concurrency** capabilities, open multiple terminal windows to simulate different machines connecting to the central collector simultaneously.
 
@@ -81,7 +81,7 @@ To demonstrate the server's **Multi-threading** and **Concurrency** capabilities
 ```bash
 python client.py 127.0.0.1 Machine_A
 python client.py 127.0.0.1 Machine_B
-
+```
 ---
 
 ## 🔒 Security & Performance Analysis
