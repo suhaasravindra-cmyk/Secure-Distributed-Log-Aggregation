@@ -2503,3 +2503,365 @@ timestamp,level,message
 12:33:18,WARNING,CPU usage high
 12:33:19,WARNING,CPU usage high
 12:33:20,ERROR,Disk full
+12:33:21,WARNING,CPU usage high
+12:33:22,WARNING,CPU usage high
+12:33:23,INFO,Request processed
+12:33:24,ERROR,Disk full
+12:33:25,INFO,Request processed
+12:33:26,WARNING,CPU usage high
+12:33:27,ERROR,Connection timeout
+12:33:28,WARNING,CPU usage high
+12:33:29,ERROR,Connection timeout
+12:33:30,INFO,Request processed
+12:33:31,ERROR,Disk full
+12:33:32,WARNING,CPU usage high
+12:33:33,WARNING,CPU usage high
+12:33:34,INFO,Request processed
+12:33:35,ERROR,Connection timeout
+12:33:36,WARNING,CPU usage high
+12:33:37,ERROR,Connection timeout
+12:33:38,INFO,Request processed
+12:33:39,ERROR,Disk full
+12:33:40,ERROR,Connection timeout
+12:33:41,INFO,Request processed
+12:33:42,ERROR,Connection timeout
+12:33:43,ERROR,Disk full
+12:33:44,INFO,User logged in
+12:33:45,WARNING,CPU usage high
+12:33:46,ERROR,Disk full
+12:33:47,INFO,User logged in
+12:33:48,WARNING,CPU usage high
+12:33:49,ERROR,Disk full
+12:33:50,INFO,Request processed
+12:33:51,WARNING,CPU usage high
+12:33:52,WARNING,CPU usage high
+12:33:53,INFO,Request processed
+12:33:54,WARNING,CPU usage high
+12:33:55,ERROR,Disk full
+12:33:56,INFO,Request processed
+12:33:57,ERROR,Connection timeout
+12:33:58,INFO,User logged in
+12:33:59,INFO,User logged in
+12:34:00,ERROR,Connection timeout
+12:34:01,ERROR,Disk full
+12:34:02,WARNING,CPU usage high
+12:34:03,WARNING,CPU usage high
+12:34:04,ERROR,Connection timeout
+12:34:05,ERROR,Connection timeout
+12:34:06,WARNING,CPU usage high
+12:34:07,INFO,User logged in
+12:34:08,ERROR,Connection timeout
+12:34:09,INFO,User logged in
+12:34:10,ERROR,Disk full
+12:34:11,ERROR,Connection timeout
+12:34:12,ERROR,Connection timeout
+12:34:13,INFO,Request processed
+12:34:14,INFO,Request processed
+12:34:15,ERROR,Connection timeout
+12:34:16,ERROR,Connection timeout
+12:34:17,ERROR,Disk full
+12:34:18,INFO,User logged in
+12:34:19,WARNING,CPU usage high
+12:34:20,INFO,User logged in
+12:34:21,INFO,Request processed
+12:34:22,INFO,User logged in
+12:34:23,ERROR,Disk full
+12:34:24,ERROR,Connection timeout
+12:34:25,ERROR,Connection timeout
+12:34:26,WARNING,CPU usage high
+12:34:27,WARNING,CPU usage high
+12:34:28,ERROR,Disk full
+12:34:29,ERROR,Connection timeout
+12:34:30,ERROR,Connection timeout
+12:34:31,ERROR,Disk full
+12:34:32,ERROR,Disk full
+12:34:33,INFO,Request processed
+12:34:34,ERROR,Disk full
+12:34:35,INFO,User logged in
+12:34:36,WARNING,CPU usage high
+12:34:37,WARNING,CPU usage high
+12:34:38,ERROR,Disk full
+12:34:39,WARNING,CPU usage high
+12:34:40,ERROR,Disk full
+12:34:41,INFO,Request processed
+12:34:42,WARNING,CPU usage high
+12:34:43,ERROR,Disk full
+12:34:44,INFO,User logged in
+12:34:45,ERROR,Disk full
+12:34:46,ERROR,Connection timeout
+12:34:47,INFO,Request processed
+12:34:48,INFO,Request processed
+12:34:49,WARNING,CPU usage high
+12:34:50,INFO,User logged in
+12:34:51,WARNING,CPU usage high
+12:34:52,INFO,Request processed
+12:34:53,INFO,Request processed
+12:34:54,INFO,User logged in
+12:34:55,ERROR,Disk full
+12:34:56,ERROR,Disk full
+12:34:57,ERROR,Disk full
+12:34:58,ERROR,Connection timeout
+12:34:59,ERROR,Connection timeout
+12:35:00,INFO,User logged in
+12:35:01,ERROR,Disk full
+12:35:02,INFO,Request processed
+12:35:03,INFO,Request processed
+12:35:04,ERROR,Disk full
+12:35:05,ERROR,Disk full
+12:35:06,INFO,User logged in
+12:35:07,INFO,Request processed
+12:35:08,INFO,Request processed
+12:35:09,ERROR,Disk full
+12:35:10,INFO,Request processed
+12:35:11,WARNING,CPU usage high
+12:35:12,INFO,User logged in
+12:35:13,WARNING,CPU usage high
+12:35:14,INFO,Request processed
+12:35:15,ERROR,Connection timeout
+12:35:16,ERROR,Disk full
+12:35:17,INFO,Request processed
+12:35:18,INFO,Request processed
+12:35:19,INFO,User logged in
+12:35:20,WARNING,CPU usage high
+12:35:21,INFO,Request processed
+12:35:22,INFO,User logged in
+12:35:23,WARNING,CPU usage high
+12:35:24,ERROR,Connection timeout
+12:35:25,ERROR,Connection timeout
+12:35:26,ERROR,Disk full
+12:35:27,WARNING,CPU usage high
+12:35:28,WARNING,CPU usage high
+12:35:29,INFO,User logged in
+12:35:30,ERROR,Disk full
+12:35:31,INFO,User logged in
+12:35:32,ERROR,Disk full
+12:35:33,WARNING,CPU usage high
+12:35:34,INFO,User logged in
+12:35:35,ERROR,Connection timeout
+12:35:36,ERROR,Disk full
+12:35:37,ERROR,Connection timeout
+12:35:38,ERROR,Disk full
+12:35:39,ERROR,Connection timeout
+12:35:40,INFO,User logged in
+12:35:41,ERROR,Disk full
+12:35:42,ERROR,Disk full
+12:35:43,ERROR,Connection timeout
+12:35:44,INFO,User logged in
+12:35:45,INFO,Request processed
+12:35:46,INFO,User logged in
+12:35:47,ERROR,Disk full
+12:35:48,ERROR,Connection timeout
+12:35:49,INFO,Request processed
+12:35:50,INFO,User logged in
+12:35:51,ERROR,Disk full
+12:35:52,INFO,User logged in
+12:35:53,ERROR,Connection timeout
+12:35:54,ERROR,Connection timeout
+12:35:55,ERROR,Disk full
+12:35:56,ERROR,Disk full
+12:35:57,WARNING,CPU usage high
+12:35:58,WARNING,CPU usage high
+12:35:59,INFO,User logged in
+12:36:00,ERROR,Connection timeout
+12:36:01,ERROR,Disk full
+12:36:02,INFO,Request processed
+12:36:03,INFO,User logged in
+12:36:04,WARNING,CPU usage high
+12:36:05,INFO,User logged in
+12:36:06,INFO,User logged in
+12:36:07,WARNING,CPU usage high
+12:36:08,INFO,Request processed
+12:36:09,INFO,Request processed
+12:36:10,ERROR,Connection timeout
+12:36:11,INFO,Request processed
+12:36:12,ERROR,Disk full
+12:36:13,ERROR,Disk full
+12:36:14,WARNING,CPU usage high
+12:36:15,INFO,Request processed
+12:36:16,WARNING,CPU usage high
+12:36:17,ERROR,Disk full
+12:36:18,ERROR,Connection timeout
+12:36:19,INFO,User logged in
+12:36:20,ERROR,Connection timeout
+12:36:21,INFO,User logged in
+12:36:22,INFO,User logged in
+12:36:23,WARNING,CPU usage high
+12:36:24,ERROR,Disk full
+12:36:25,INFO,Request processed
+12:36:26,ERROR,Disk full
+12:36:27,INFO,Request processed
+12:36:28,ERROR,Connection timeout
+12:36:29,INFO,User logged in
+12:36:30,WARNING,CPU usage high
+12:36:31,INFO,Request processed
+12:36:32,ERROR,Disk full
+12:36:33,ERROR,Connection timeout
+12:36:34,ERROR,Disk full
+12:36:35,WARNING,CPU usage high
+12:36:36,WARNING,CPU usage high
+12:36:37,ERROR,Connection timeout
+12:36:38,ERROR,Connection timeout
+12:36:39,WARNING,CPU usage high
+12:36:40,WARNING,CPU usage high
+12:36:41,ERROR,Disk full
+12:36:42,ERROR,Connection timeout
+12:36:43,ERROR,Disk full
+12:36:44,ERROR,Connection timeout
+12:36:45,INFO,User logged in
+12:36:46,INFO,User logged in
+12:36:47,ERROR,Disk full
+12:36:48,ERROR,Disk full
+12:36:49,INFO,User logged in
+12:36:50,INFO,User logged in
+12:36:51,INFO,Request processed
+12:36:52,WARNING,CPU usage high
+12:36:53,WARNING,CPU usage high
+12:36:54,WARNING,CPU usage high
+12:36:55,WARNING,CPU usage high
+12:36:56,WARNING,CPU usage high
+12:36:57,INFO,User logged in
+12:36:58,INFO,User logged in
+12:36:59,INFO,User logged in
+12:37:00,ERROR,Disk full
+12:37:01,INFO,Request processed
+12:37:02,INFO,Request processed
+12:37:03,INFO,Request processed
+12:37:04,WARNING,CPU usage high
+12:37:05,WARNING,CPU usage high
+12:37:06,ERROR,Disk full
+12:37:07,INFO,Request processed
+12:37:08,ERROR,Disk full
+12:37:09,INFO,User logged in
+12:37:10,INFO,User logged in
+12:37:11,INFO,Request processed
+12:37:12,ERROR,Disk full
+12:37:13,INFO,Request processed
+12:37:14,ERROR,Connection timeout
+12:37:15,WARNING,CPU usage high
+12:37:16,ERROR,Connection timeout
+12:37:17,ERROR,Connection timeout
+12:37:18,ERROR,Connection timeout
+12:37:19,INFO,Request processed
+12:37:20,ERROR,Connection timeout
+12:37:21,ERROR,Disk full
+12:37:22,ERROR,Disk full
+12:37:23,ERROR,Disk full
+12:37:24,WARNING,CPU usage high
+12:37:25,WARNING,CPU usage high
+12:37:26,ERROR,Disk full
+12:37:27,ERROR,Disk full
+12:37:28,INFO,User logged in
+12:37:29,ERROR,Disk full
+12:37:30,ERROR,Disk full
+12:37:31,INFO,User logged in
+12:37:32,WARNING,CPU usage high
+12:37:33,ERROR,Connection timeout
+12:37:34,INFO,User logged in
+12:37:35,WARNING,CPU usage high
+12:37:36,INFO,Request processed
+12:37:37,ERROR,Disk full
+12:37:38,ERROR,Connection timeout
+12:37:39,ERROR,Connection timeout
+12:37:40,WARNING,CPU usage high
+12:37:41,INFO,User logged in
+12:37:42,ERROR,Disk full
+12:37:43,INFO,Request processed
+12:37:44,INFO,Request processed
+12:37:45,WARNING,CPU usage high
+12:37:46,ERROR,Disk full
+12:37:47,ERROR,Disk full
+12:37:48,INFO,User logged in
+12:37:49,INFO,Request processed
+12:37:50,INFO,Request processed
+12:37:51,INFO,User logged in
+12:37:52,INFO,User logged in
+12:37:53,WARNING,CPU usage high
+12:37:54,WARNING,CPU usage high
+12:37:55,ERROR,Disk full
+12:37:56,ERROR,Connection timeout
+12:37:57,ERROR,Connection timeout
+12:37:58,INFO,User logged in
+12:37:59,INFO,User logged in
+12:38:00,ERROR,Connection timeout
+12:38:01,WARNING,CPU usage high
+12:38:02,ERROR,Disk full
+12:38:03,ERROR,Connection timeout
+12:38:04,ERROR,Disk full
+12:38:05,INFO,User logged in
+12:38:06,INFO,Request processed
+12:38:07,ERROR,Disk full
+12:38:08,WARNING,CPU usage high
+12:38:09,ERROR,Connection timeout
+12:38:10,INFO,Request processed
+12:38:11,WARNING,CPU usage high
+12:38:12,INFO,User logged in
+12:38:13,ERROR,Disk full
+12:38:14,INFO,User logged in
+12:38:15,INFO,Request processed
+12:38:16,ERROR,Connection timeout
+12:38:17,INFO,Request processed
+12:38:18,INFO,Request processed
+12:38:19,ERROR,Connection timeout
+12:38:20,INFO,Request processed
+12:38:21,WARNING,CPU usage high
+12:38:22,ERROR,Connection timeout
+12:38:23,INFO,User logged in
+12:38:24,INFO,Request processed
+12:38:25,ERROR,Disk full
+12:38:26,WARNING,CPU usage high
+12:38:27,ERROR,Disk full
+12:38:28,INFO,User logged in
+12:38:29,INFO,Request processed
+12:38:30,ERROR,Connection timeout
+12:38:31,WARNING,CPU usage high
+12:38:32,ERROR,Connection timeout
+12:38:33,INFO,User logged in
+12:38:34,WARNING,CPU usage high
+12:38:35,ERROR,Connection timeout
+12:38:36,ERROR,Connection timeout
+12:38:37,ERROR,Connection timeout
+12:38:38,INFO,User logged in
+12:38:39,ERROR,Disk full
+12:38:40,INFO,User logged in
+12:38:41,ERROR,Disk full
+12:38:42,ERROR,Connection timeout
+12:38:43,ERROR,Disk full
+12:38:44,WARNING,CPU usage high
+12:38:45,INFO,Request processed
+12:38:46,ERROR,Disk full
+12:38:47,WARNING,CPU usage high
+12:38:48,WARNING,CPU usage high
+12:38:49,ERROR,Connection timeout
+12:38:50,WARNING,CPU usage high
+12:38:51,INFO,User logged in
+12:38:52,INFO,Request processed
+12:38:53,INFO,Request processed
+12:38:54,ERROR,Connection timeout
+12:38:55,WARNING,CPU usage high
+12:38:56,WARNING,CPU usage high
+12:38:57,WARNING,CPU usage high
+12:38:58,WARNING,CPU usage high
+12:38:59,INFO,Request processed
+12:39:00,INFO,Request processed
+12:39:01,WARNING,CPU usage high
+12:39:02,INFO,User logged in
+12:39:03,INFO,Request processed
+12:39:04,INFO,User logged in
+12:39:05,ERROR,Connection timeout
+12:39:06,INFO,Request processed
+12:39:07,ERROR,Disk full
+12:39:08,ERROR,Connection timeout
+12:39:09,ERROR,Disk full
+12:39:10,ERROR,Connection timeout
+12:39:11,INFO,Request processed
+12:39:12,INFO,Request processed
+12:39:13,ERROR,Disk full
+12:39:14,ERROR,Connection timeout
+12:39:15,ERROR,Disk full
+12:39:16,INFO,User logged in
+12:39:17,WARNING,CPU usage high
+12:39:18,INFO,User logged in
+12:39:19,INFO,User logged in
+12:39:20,INFO,Request processed
+12:39:21,WARNING,CPU usage high
+12:39:22,WARNING,CPU usage high
