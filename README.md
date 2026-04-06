@@ -26,6 +26,7 @@ A lightweight, real-time telemetry framework designed to aggregate logs from dis
 Ensure you have Python installed, along with the required data analysis libraries:
 ```bash
 pip install pandas matplotlib
+```
 ### 2. Launch Sequence
 
 To run the full pipeline, open **three separate terminal windows** and execute the scripts in the following order. This ensures the receiver is ready before the data starts flowing.
